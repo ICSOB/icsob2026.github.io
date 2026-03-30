@@ -1,5 +1,7 @@
 ---
 layout: generic-page
+title: Home
+description: "17th International Conference on Software Business — Gothenburg, Sweden, October 2026. Join researchers and practitioners exploring AI-native dominance, digital sovereignty, and the future of software business."
 links:
   - name: Program
     relative_url: /program/
