@@ -15,11 +15,15 @@
 # in the templates via {{ site.myvariable }}.
 title: ICSOB 2026
 email: icsob2026@gmail.com
-description: The International Conference on Software Business (ICSOB) attracts both researchers and practitioners who are concerned with software-intensive business in different ways, and brings them together to share their findings and experiences from the field of software-intensive business.
+description: "17th International Conference on Software Business — Gothenburg, Sweden, October 2026. Themes include AI-native software business, digital sovereignty, software ecosystems, cloud platforms, sustainability, and entrepreneurship."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://icsob2026.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ICSOBconf
 github_username: icsob2026
+logo: /assets/images/ICSOB.png
+twitter:
+  username: ICSOBconf
+  card: summary_large_image
 
 # Build settings
 markdown: kramdown
@@ -30,6 +34,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-target-blank
 
 target-blank:

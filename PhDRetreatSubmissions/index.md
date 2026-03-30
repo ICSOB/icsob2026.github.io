@@ -1,5 +1,7 @@
 ---
 layout: generic-page
+title: PhD Retreat – Call for Submissions
+description: "PhD Retreat at ICSOB 2026 — a dedicated forum for doctoral students in software business research. Submission deadline: September 10, 2026."
 ---
 
 <h1 id="CallForPhDRetreat" class="mb-4 text-center">PhD Retreat – Call for Submissions</h1>

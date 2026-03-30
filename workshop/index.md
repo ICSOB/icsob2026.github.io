@@ -1,5 +1,7 @@
 ---
 layout: importantdates
+title: Workshop
+description: "Workshop programme at ICSOB 2026 — the 17th International Conference on Software Business, Gothenburg, Sweden, October 2026."
 ---
 
 <h1>Workshop</h1>

@@ -1,5 +1,7 @@
 ---
 layout: organisation
+title: Organisation
+description: "Meet the organising and programme committees of ICSOB 2026, the 17th International Conference on Software Business."
 ---
 
 <html>
