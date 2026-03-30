@@ -1,8 +1,8 @@
 ---
-layout: importantdates
+layout: generic-page
 ---
 
-<h1 id="CallForPhDRetreat">PhD Retreat – Call for Submissions</h1>
+<h1 id="CallForPhDRetreat" class="mb-4 text-center">PhD Retreat – Call for Submissions</h1>
 
 <p class="lead">The ICSOB 2026 PhD Retreat is an exciting one-day event designed to bring together PhD students who work on research related to software-intensive business. The PhD Retreat provides a friendly and constructive environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and other students in the same field.</p>
 
@@ -28,7 +28,7 @@ layout: importantdates
 
 <hr>
 
-<h2 id="SubmissionCategories">Submission Categories</h2>
+<h2>Submission Categories</h2>
 
 <p>We welcome two categories of submission:</p>
 
@@ -38,45 +38,19 @@ layout: importantdates
 
 <hr>
 
-<h2 id="ImportantDates">Important Dates</h2>
+<h2>Important Dates</h2>
 
-<p><b>PhD Retreat:</b></p>
-<ul style="list-style: none;">
-  <li>Submission Deadline: TBA</li>
-  <li>Notification of Acceptance: TBA</li>
-  <li>Camera-ready Papers Due: TBA</li>
-  <li>Conference Dates: November 2026</li>
-</ul>
+{% include important-dates/_phd-retreat.html  %}
 
 <hr>
 
-<h2 id="Submissions">Submissions</h2>
+<h2>Submission Guideliness</h2>
 
-<p>The PhD Retreat submission must consist of two elements:</p>
-
-<p><b>1. Supervisor letter:</b> A letter from the PhD student's supervisor including the current state of the PhD student's research and the expected date to complete the PhD thesis. The letter should be submitted via email to the PhD Retreat chairs (contact details TBA).</p>
-
-<p><b>2. Short paper:</b> A paper that describes the PhD student's thesis. The short paper should not be anonymous and should meet the following requirements:</p>
-
-<ul>
-  <li>Be authored only by the student and his/her supervisors;</li>
-  <li>Clearly state the problem to be addressed in the student's thesis, and why this problem is important to be tackled (motivation);</li>
-  <li>Discuss related work, and the knowledge gap in the literature that has been addressed in the thesis;</li>
-  <li>Describe the research method and the evaluation plan of the results;</li>
-  <li>Include the planned timeline for thesis completion;</li>
-  <li>Present the results achieved so far (requested for the mid-stage PhD submission only);</li>
-  <li>Explain the expected contributions of the thesis.</li>
-</ul>
-
-<p>To address the items above, we suggest the following structure: Problem Definition, Knowledge Gap, Research Method, Timeline, Preliminary Results (if any), and Expected Contributions. All submissions must be written in English.</p>
-
-<p>Students interested in participating in the PhD Retreat must submit a short paper (5–9 pages) using the CEUR-ART one-column template, available here: <a href="/PhDRetreatSubmissions/CEURART.zip">CEURART.zip</a> (LaTeX) or <a href="/PhDRetreatSubmissions/CEUR-Template-1col.docx">CEUR-Template-1col.docx</a> (Word). Accepted PhD Retreat submissions will be offered for publication by CEUR-WS.org (open access) in the ICSOB 2026 Companion Proceedings.</p>
-
-<p>Papers can be submitted through EasyChair (submission link TBA).</p>
+{% include submission-guidelines/_phd-retreat.html %}
 
 <hr>
 
-<h2 id="ReviewProcess">Review Process</h2>
+<h2>Review Process</h2>
 
 <p>All submissions will be peer-reviewed by the Program Committee members. The main evaluation criteria are scope, relevance, originality, soundness, accuracy, and clarity.</p>
 
