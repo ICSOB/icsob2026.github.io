@@ -2,6 +2,8 @@
 layout: generic-page
 ---
 
+<div class="col-md-10 mx-auto">
+
 <h1 id="CallForPosters" class="mb-4 text-center">Call for Poster and Demo Submissions</h1>
 
 <p>The poster and demo track invites researchers and practitioners working in software-intensive businesses to submit posters and demonstrations of their research. This track provides an opportunity for presenting early-stage research, innovative concepts, and practical implementations related to the software business.</p>
@@ -53,3 +55,5 @@ layout: generic-page
 <h2>Submission Guidelines</h2>
 
 {% include submission-guidelines/_poster-demo.html %}
+
+</div>
