@@ -27,7 +27,7 @@ description: "Submit to ICSOB 2026. Topics include AI-native software business, 
 
 <p>At the same time, ICSOB 2026 continues its long-standing mission as a broad forum for <strong>software business research and practice</strong>, explicitly welcoming contributions across the wide spectrum of topics that have traditionally defined the conference, including software product management, software ecosystems, cloud services, digital transformation, sustainability, ethics, inclusion, entrepreneurship, and emerging communications and infrastructure technologies.</p>
 
-<p>ICSOB 2026 further invites rigorous and relevant work from a range of disciplines, such as software engineering, information systems, innovation and entrepreneurship, strategic management, economics, digital policy, design science, and related fields.</p>
+<p>ICSOB 2026 further invites rigorous and relevant work from a range of disciplines, such as software engineering, information systems, innovation and entrepreneurship, strategic management, economics, digital policy, design science, and related fields. We welcome qualitative, quantitative, and mixed-method research, as well as literature reviews, systematic mapping studies, bibliometric analyses, case studies, surveys, experiments, design science research, action research, archival studies, analytical modeling, and simulation studies. Practice-based and industry-grounded submissions are also encouraged.</p>
 
 <hr>
 
@@ -35,7 +35,7 @@ description: "Submit to ICSOB 2026. Topics include AI-native software business, 
 
 <p>Topics include, but are not limited to, the following.</p>
 
-<h3>A. Annual theme: AI-native dominance, digital sovereignty, and strategic dependence</h3>
+<h3>A. Main theme: AI-native dominance, digital sovereignty, and strategic dependence</h3>
 <ul>
   <li>AI-native software businesses, products, and business models</li>
   <li>digital sovereignty, strategic autonomy, and sovereign digital infrastructures</li>
@@ -45,7 +45,7 @@ description: "Submit to ICSOB 2026. Topics include AI-native software business, 
   <li>electricity, data centers, energy intensity, and infrastructure location strategies</li>
   <li>critical infrastructure, cyber resilience, and trusted software-intensive systems</li>
   <li>political influence, lobbying, standard-setting, procurement, and regulatory power</li>
-  <li>value capture, lock-in, interoperability, and ecosystem control in AI-intensive markets</li>
+  <li>value capture, lock-in, interoperability, and ecosystem control in software-intensive markets</li>
 </ul>
 
 <h3>B. Software product management and software-intensive innovation</h3>
@@ -55,7 +55,7 @@ description: "Submit to ICSOB 2026. Topics include AI-native software business, 
   <li>product-market fit, software pricing, and monetization</li>
   <li>requirements engineering and decision-making in software product contexts</li>
   <li>software quality, technical debt, and lifecycle management</li>
-  <li>DevOps, platform engineering, and product operations</li>
+  <li>management of software development, DevOps, platform engineering, and product operations</li>
   <li>software-enabled service innovation and digital product innovation</li>
 </ul>
 
@@ -71,7 +71,19 @@ description: "Submit to ICSOB 2026. Topics include AI-native software business, 
   <li>digital infrastructures for smart cities, mobility, health, manufacturing, and public services</li>
 </ul>
 
-<h3>D. Software ecosystems, open innovation, and digital platforms</h3>
+<h3>D. Automation, business processes, and digital operations</h3>
+<ul>
+  <li>automation in software-intensive organizations</li>
+  <li>business process management and business process modeling</li>
+  <li>process redesign, workflow orchestration, and process innovation</li>
+  <li>process mining and data-driven process improvement</li>
+  <li>robotic process automation (RPA), intelligent automation, and hyperautomation</li>
+  <li>low-code/no-code automation and citizen development</li>
+  <li>business value, governance, and organizational implications of automation</li>
+  <li>integration of automation with enterprise systems, cloud platforms, and digital services</li>
+</ul>
+
+<h3>E. Software ecosystems, open innovation, and digital platforms</h3>
 <ul>
   <li>software ecosystems, ecosystem governance, and orchestration</li>
   <li>complementors, boundary resources, and platform openness</li>
@@ -81,7 +93,7 @@ description: "Submit to ICSOB 2026. Topics include AI-native software business, 
   <li>standards, interoperability, and modularity in software-intensive ecosystems</li>
 </ul>
 
-<h3>E. Sustainability, ethics, inclusion, and responsible software business</h3>
+<h3>F. Sustainability, ethics, inclusion, and responsible software business</h3>
 <ul>
   <li>sustainability in software business, digital services, and ecosystems</li>
   <li>green software, energy-efficient architectures, and responsible infrastructure use</li>
@@ -93,17 +105,17 @@ description: "Submit to ICSOB 2026. Topics include AI-native software business, 
   <li>societal impacts of software platforms and digital transformation</li>
 </ul>
 
-<h3>F. Entrepreneurship, startups, and software business development</h3>
+<h3>G. Entrepreneurship, startups, and software business development</h3>
 <ul>
   <li>software startups, scale-ups, and entrepreneurial software ventures</li>
   <li>venture creation, business experimentation, and growth strategies</li>
   <li>software business models and internationalization</li>
   <li>software-intensive innovation management and commercialization</li>
   <li>startup ecosystems, accelerators, and venture financing</li>
-  <li>AI-native startups and emerging digital opportunities</li>
+  <li>deep-tech ventures and emerging digital opportunities</li>
 </ul>
 
-<h3>G. Digital transformation, services, and organizational change</h3>
+<h3>H. Digital transformation, services, and organizational change</h3>
 <ul>
   <li>digital transformation through software and digital services</li>
   <li>transformation of incumbents into software-centric businesses</li>
@@ -113,7 +125,7 @@ description: "Submit to ICSOB 2026. Topics include AI-native software business, 
   <li>public sector digitalization and software-enabled societal transformation</li>
 </ul>
 
-<h3>H. Governance, regulation, and public value</h3>
+<h3>I. Governance, regulation, and public value</h3>
 <ul>
   <li>governance of software-intensive business and digital markets</li>
   <li>regulation of platforms, cloud services, and digital ecosystems</li>
@@ -131,7 +143,7 @@ description: "Submit to ICSOB 2026. Topics include AI-native software business, 
 
 <hr>
 
-<h2>Submission Guidelines</h2>
+<h2>Submission Categories and Submission Guidelines</h2>
 {% include submission-guidelines/_research-papers.html %}
 
 </div>

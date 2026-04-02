@@ -19,22 +19,21 @@ links:
     }
 </style>
 
-<h1 id="Welcome" class="mb-4 text-center">Welcome to ICSOB 2026!</h1>
+<div class="col-md-10 mx-auto">
+    <h1 id="Welcome" class="mb-4 text-center">Welcome to ICSOB 2026!</h1>
 
-<p>We are delighted to invite you to contribute to the 17th International Conference on Software Business (ICSOB 2026), to be held in the beautiful city of Gothenburg, Sweden, October 26–28, 2026. This conference aims to foster a vibrant community of researchers and practitioners to exchange ideas and findings on the rapidly evolving field of software business.</p>
+    <p>We are pleased to invite submissions to the 17th International Conference on Software Business (ICSOB 2026), taking place in Gothenburg, Sweden, on October 26–28, 2026.</p>
 
-<hr>
+    <p>ICSOB 2026 is a multidisciplinary conference that brings together an international community of researchers, practitioners, and policymakers to exchange ideas and advance understanding of the rapidly evolving world of software-intensive business.
+    </p>
 
-<h3 class="text-center mb-3"><i>"Software Business in the Age of AI-Native Dominance and Digital Sovereignty"</i></h3>
+    <h3 class="text-center mb-3"><i>"Software Business in the Age of AI-Native Dominance and Digital Sovereignty"</i></h3>
 
-<p class="font-weight-normal">The International Conference on Software Business (ICSOB) 2026 brings together researchers and practitioners who are concerned with software-intensive business in different ways. The conference serves as a platform for sharing findings and experiences from the field of software-intensive business, addressing the management, development, and evolution of software-intensive products and services. Topics of interest include, but are not limited to, (i) AI-native dominance, digital sovereignty, and strategic dependence; (ii) Software product management, and software-intensive innovation; (iii) Cloud computing, platforms, and next-generation infrastructures; (iv) Software ecosystems, open innovation, and digital platforms; (v) Sustainability, ethics, inclusion, and responsible software business; (vi) Entrepreneurship, startups, and software business development; (vii) Digital transformation, services, and organizational change; and (viii) Governance, regulation, and public value. ICSOB 2026 invites interdisciplinary collaboration among researchers, practitioners, and policymakers to advance knowledge and practice in software business.</p>
+    <p>Under this theme, the conference will explore how software-intensive products, services, platforms, and processes are being reshaped by AI, cloud infrastructures, automation, geopolitical shifts, and the growing importance of strategic autonomy. At the same time, ICSOB remains a broad multidisciplinary forum that welcomes contributions from Information Systems, Software Engineering, Business and Management, Economics, and related disciplines.</p>
 
-<hr>
+    <p>The conference invites studies on software product management and innovation, cloud computing and next-generation infrastructures, automation and business process modeling, software ecosystems and digital platforms, entrepreneurship and software business development, digital transformation, sustainability, ethics, inclusion, governance, and public value. ICSOB 2026 welcomes diverse research approaches, including qualitative and quantitative studies, literature reviews, empirical analyses, modeling and simulation, design science, and practice-based contributions.</p>
 
-{% include important-dates.html %}
+    <p>Please see the dedicated pages for <a href="/ResearchPapers">Research Papers</a>, <a href="/Posters">Posters and Demos</a>, <a href="/PhDRetreatSubmissions">the PhD Retreat</a>, and <a href="/importantdates">Important Dates</a> for full submission details and deadlines.</p>
 
-<hr>
-
-<h2>Location</h2>
-
-<p>ICSOB 2026 will be held in Gothenburg, Sweden. <a href="/location/" target="_blank">See details</a>.</p>
+    <p>ICSOB 2026 will be organized as an in-person conference in <a href="/location">Gothenburg, Sweden</a>.</p>
+</div>
