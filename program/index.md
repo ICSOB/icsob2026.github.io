@@ -1,21 +1,61 @@
 ---
-layout: importantdates
+layout: generic-page
+title: Program
+description: "Program rundown for ICSOB 2026, the 17th International Conference on Software Business, October 26–28, 2026, in Gothenburg, Sweden."
 ---
 
-<h1 class="display-4" style="text-align: center;">
-	Program Overview
-</h1>
-<b> Day 1: PhD Retreat </b>
+<div class="col-md-10 mx-auto">
 
-The ICSOB 2026 PhD Retreat is an exciting one-day event that will happen at the conference venue. The retreat is designed to bring together PhD students who work on research related to software-intensive business. The PhD Retreat provides a friendly and constructive environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and other students in the same field.
+    <h1 id="Program" class="mb-4 text-center">Program</h1>
 
-<b> Day 2: Keynotes and Parallel Tracks </b>
+    <p class="mb-2 text-center">ICSOB 2026 runs October 26–28, 2026, in Gothenburg, Sweden. Below is a high-level rundown of which track runs on which day.</p>
 
-The second day of ICSOB 2026 will feature keynote addresses followed by parallel paper presentation tracks. The day will conclude with a conference dinner, providing a setting for networking and recognition of outstanding contributions to the field.
+    <style>
+        .program-rundown {
+            border: 1px solid rgba(11, 11, 11, 0.35);
+            table-layout: fixed;
+            width: 100%;
+        }
 
-<b> Day 3: Parallel Tracks and Keynotes </b>
+        .program-rundown th,
+        .program-rundown td {
+            width: 33.333%;
+            text-align: center;
+            vertical-align: middle;
+            border: 2px solid rgba(11, 11, 11, 0.35) !important;
+        }
 
-The third day of ICSOB 2026 will feature further keynotes and paper presentation tracks, providing opportunities for interaction and collaboration among researchers and practitioners in software business.
-<hr/>
+        .program-rundown .track-a {
+            background-color: rgba(42, 120, 214, 0.22);
+        }
 
-<p style="text-align: center;"><em>Detailed program information will be published here as it becomes available.</em></p>
+        .program-rundown .track-b {
+            background-color: rgba(235, 104, 52, 0.22);
+        }
+    </style>
+
+    <div class="table-responsive">
+        <table class="table table-bordered program-rundown">
+            <thead>
+                <tr>
+                    <th scope="col">Mon, October 26</th>
+                    <th scope="col">Tue, October 27</th>
+                    <th scope="col">Wed, October 28</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="track-a">PhD Retreat</td>
+                    <td class="track-a">Main Conference (Day 1)</td>
+                    <td class="track-a">Main Conference (Day 2)</td>
+                </tr>
+                <tr>
+                    <td class="track-b">Workshop: Software Startups Research Agenda in the Era of AI</td>
+                    <td class="track-b" colspan="2">Poster &amp; Demo</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <p class="mb-4 text-center"><em>The detailed program, with session times and paper presentations will be published here.</em></p>
+</div>

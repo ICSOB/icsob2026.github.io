@@ -133,16 +133,10 @@ conference:
 #            relative_url: /Awards/
 #          - name: Student Volunteers
 #            relative_url: /studentvolunteers/
-#      - name: Program
-#        menu:
-#          - name: Program Overview
-#            relative_url: /program/
-#          - name: Detailed Schedule
-#            relative_url: /Schedule/
-#          - name: Keynotes
-#            relative_url: /speakers/
           - name: Workshop
             relative_url: /workshop/
+      - name: Program
+        relative_url: /program/
       - name: Important Dates
         relative_url: /importantdates/
       - name: Sponsors
